@@ -1,2 +1,0 @@
-Esta es la segunda prueba de texto, este pedazo es nuevo
-Esta es una modificación para probar el commit
